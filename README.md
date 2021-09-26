@@ -5,7 +5,9 @@
 - 📫 How to reach me -- viveena30@gmail.com
 
 <br>
+
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=viveena30)
 
