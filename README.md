@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a software developer.
 - 💻 Web Development | 🖼️ UI Design | 🖋️ Content Writer
 - 🌱 I’m currently learning python.
-- 👩‍💻 My interests include ☁️ Cloud computing and !(https://emojis.slackmojis.com/emojis/images/1585314956/8363/devops.png?1585314956) DevOps
+- 👩‍💻 My interests include ☁️ Cloud computing and ⚙️ DevOps
 - 📫 How to reach me -- viveena30@gmail.com
 
 
