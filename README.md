@@ -9,9 +9,11 @@
 
 
 <br>
-
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
 
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveena30&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=viveena30)
 
