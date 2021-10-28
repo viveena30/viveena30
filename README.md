@@ -20,7 +20,7 @@
 <br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveena30&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveena30&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 <!---
 viveena30/viveena30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
