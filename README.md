@@ -12,11 +12,6 @@
 <br>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=viveena30)
-
-
-
-
 <br>
 
 
