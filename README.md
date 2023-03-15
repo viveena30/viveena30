@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @viveena30
-- 👀 I’m interested in becoming a software developer.
-- 💻 Web Development | 🖼️ UI Design | 🖋️ Content Writer
-- 🌱 I’m currently learning more about blockchain.
 - 👩‍💻 My interests include ☁️ Cloud computing and ⚙️ DevOps
 - 📫 How to reach me -- viveena30@gmail.com
 
