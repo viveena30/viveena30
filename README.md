@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viveena30
 - 👩‍💻 My interests include ☁️ Cloud computing and ⚙️ DevOps
-- 📫 How to reach me -- viveena30@gmail.com
+
 
 
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
